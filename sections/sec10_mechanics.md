@@ -1,0 +1,16 @@
+## 10. Survival Mechanics and Environmental Storytelling: Procedural Rhetoric and Bodily Vulnerability
+
+A defining achievement of *Metro: Last Light* is its seamless integration of survival mechanics and thematic storytelling. The game embeds existential dread directly into tactile physical interactions. Through procedural rhetoric (Bogost, 2007), the game simulates bodily vulnerability, asserting that civilizational collapse strips human life of protective buffers, leaving individuals exposed to biological decay.
+
+### The Gas Mask: Fragile Window to a Toxic World
+The gas mask is the quintessential ludic and thematic object of the *Metro* series. In surface chapters (*Ashes*, *Bridge*, *Dead City*, *Red Square*), survival depends entirely on this fragile piece of rubber and glass.
+- **Visual Degradation and Visor Wiping:** During combat and navigation, the visor accumulates condensation, rain droplets, mud splatters, and enemy blood. 4A Games dedicated a specific, non-combat button (default key: G) to manually wiping the visor. In ferocious mutant ambushes, players must take their hand off weapons to clear blinding grime, inducing kinesthetic panic.
+- **Physical Fracturing:** Sustaining trauma cracks the glass visor, distorting vision. Continued damage breaks away glass chunks, producing the hissing sound of radioactive air leaking into the mask, forcing frantic searches for replacement masks on corpses before asphyxiation. The mask procedurally argues that human perception in the Anthropocene is fragile and prone to failure.
+
+### The Watch, Filter Economy, and Ammunition Capital
+Tied inextricably to the gas mask is the air filter system, tracked diegetically through the analog wristwatch on Artyom's left arm.
+- **The Countdown to Asphyxiation:** Each filter provides two to five minutes of clean oxygen, tracked by a countdown dial. Lacking regenerating oxygen, approaching zero makes Artyom's breathing ragged and panicked, culminating in violent choking death if filters are not swapped. Breath is commodified; every second on the surface is borrowed time purchased with scrap.
+- **Dual Ammunition Economy:** The economy is split between crude "dirty" hand-loaded ammo (low-damage, inaccurate, causing weapon jams) and pristine pre-war Military-Grade Rounds (MGR). Crucially, MGRs serve as universal currency for purchasing filters, medkits, and attachments. In desperate combat, players can chamber MGRs for devastating firepower, but every trigger pull literally incinerates personal financial wealth. The mechanic procedurally simulates how survival forces human beings to consume their own future.
+
+### Lighting, Stealth, and Pneumatic Pressure
+*Last Light* rejects radar minimaps, managing stealth through a single diegetic instrument: an analog photodiode on Artyom’s watch. Concealed in complete darkness, the bulb remains dark; grazing ambient light immediately illuminates the diode with an audio chime. Sparing lives requires physical interaction with lighting: unscrewing hot incandescent bulbs, blowing out candles, shooting lanterns, and cutting fuse boxes. Pneumatic weapons (such as the Tihar air rifle) reinforce this: players must manually pump a compressed air reservoir using a pneumatic valve to maintain kinetic muzzle velocity, transforming stealth shooting into deliberate physical labor.
