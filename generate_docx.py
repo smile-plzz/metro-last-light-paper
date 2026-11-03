@@ -213,3 +213,4 @@ if in_table and table_data:
 doc.save(docx_path)
 print(f"Publication-ready Word manuscript successfully exported to {docx_path}")
 print(f"File size: {os.path.getsize(docx_path)} bytes.")
+

@@ -117,3 +117,4 @@ with open(os.path.join(sections_dir, "sec10_mechanics.md"), "w", encoding="utf-8
     f.write(sec10)
 
 print("Calibrated sections 6-10 written.")
+

@@ -74,3 +74,4 @@ research/metro-last-light/
 1. **Interpretive Textual Boundaries:** The study’s analyses of player psychology and affective resonance represent close ludonarrative readings grounded in game design theory (Isbister, 2016; Bogost, 2007) and published reception scholarship (Bosman, 2017). They do not claim the authority of quantitative laboratory psychometrics.
 2. **Game-Edition Delimitation:** The primary research object remains *Metro: Last Light* (2013). While the 2014 *Redux* pass was evaluated for comparative technical and pacing distinctions (Survival vs. Spartan modes), subsequent franchise titles (*Metro Exodus*, 2019) were referenced solely to contextualize long-term canonical continuity.
 3. **Linguistic Scope:** Primary analysis was conducted using the original English localization and verified against Russian-language dialogue scripts and Dmitry Glukhovsky’s published source materials.
+

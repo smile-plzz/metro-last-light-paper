@@ -549,3 +549,4 @@ print(f"Body text word count (Sections 1-15, excluding abstract, refs, appendice
 
 with open(r"C:\Users\ismai\.gemini\antigravity\scratch\research\metro-last-light\generate_manuscript.py", "w", encoding="utf-8") as f:
     f.write(sec1) # placeholder check
+

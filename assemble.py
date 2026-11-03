@@ -154,3 +154,4 @@ with open(out_path, "w", encoding="utf-8") as f:
 words = len(re.findall(r"\b\w+\b", body_text))
 print("12_FULL_RESEARCH_PAPER.md generated successfully!")
 print(f"Total Body Word Count (Sections 1-15, excluding abstract/refs/appendices): {words} words.")
+

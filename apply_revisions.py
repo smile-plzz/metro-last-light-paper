@@ -58,3 +58,4 @@ revised_sec14 = revised_sec14.replace(
 write_sec("sec14_discussion.md", revised_sec14)
 
 print("Revisions applied to section files successfully.")
+

@@ -22,3 +22,4 @@ This paper presents an exhaustive interdisciplinary investigation of *Metro: Las
 
 # We will write the 15 sections into a dedicated python script that combines them and writes 12_FULL_RESEARCH_PAPER.md
 print("Header defined.")
+

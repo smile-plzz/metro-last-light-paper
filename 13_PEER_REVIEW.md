@@ -81,3 +81,4 @@ However, all four specialist reviewers and the Devil's Advocate have raised targ
 | **REV-04** | Section 8 (Otherness) | Devil's Advocate | Acknowledge the rationality of human fear in *Metro 2033*: explicitly document that the Dark Ones' psychic transmissions were biologically lethal to humans, preventing simplistic villainization of Miller. |
 | **REV-05** | Section 12 & 14 | Devil's Advocate | Strengthen the critique of the *Redemption* ending as a theological deus ex machina that evades human structural responsibility for genocide. |
 | **REV-06** | Section 11 (Morality) | Devil's Advocate | Sharpen the critique of arbitrary exploration: highlight the absurdity of rewarding players for watching the Bolshoi cabaret as "moral goodness." |
+
