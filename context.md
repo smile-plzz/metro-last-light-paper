@@ -1,5 +1,10 @@
 # Research Context, Goals, Stack, and Constraints
 
+## Author & Project Identity
+- **Title:** The Last Light of Humanity: Memory, Ideology, Moral Agency, and the Ethics of Survival in *Metro: Last Light*
+- **Author:** Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University, Dhaka, Bangladesh)
+- **Contact:** ismailhossain013@gmail.com | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)
+
 ## Core Goals
 1. Conduct an interdisciplinary, publication-quality qualitative research study on *Metro: Last Light* (2013).
 2. Investigate the central contradiction: Humanity survives physical destruction but reproduces the ideological, tribal, and violent structures that caused it.

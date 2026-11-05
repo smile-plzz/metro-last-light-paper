@@ -1,7 +1,7 @@
 # 00_PROJECT_README.md: Metro: Last Light Academic Research Project
 
 **Project Title:** The Last Light of Humanity: Memory, Ideology, Moral Agency, and the Ethics of Survival in *Metro: Last Light*  
-**Research Lead:** Academic Research Specialist & Manuscript Coordinator  
+**Research Lead / Author:** Md. Ismail Hossain ([GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/))  
 **Date of Record:** 2026-11-03  
 **Status:** COMPLETE (All Pipeline Stages 1 through 6 Finalized)  
 

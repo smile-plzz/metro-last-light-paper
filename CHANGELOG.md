@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Semantic Versioning.
 
+## [1.1.0] - 2026-11-06
+### Added / Changed
+- Updated proper author attribution to Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University) across README.md, 00_PROJECT_README.md, 01_RESEARCH_BRIEF.md, 12_FULL_RESEARCH_PAPER.md, context.md.
+- Added comprehensive author contact links (LinkedIn, GitHub, Facebook, Email, Portfolio).
+- Re-generated Metro_Last_Light_Research_Paper.docx with updated author metadata.
+
 ## [1.0.0] - 2026-11-03
 ### Added
 - Complete execution of the ARS academic research pipeline (Stages 1 through 6).

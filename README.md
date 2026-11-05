@@ -3,7 +3,7 @@
 **Project Title:** The Last Light of Humanity: Memory, Ideology, Moral Agency, and the Ethics of Survival in *Metro: Last Light*  
 **Primary Discipline:** Game Studies  
 **Secondary Disciplines:** Narrative Studies, Political Philosophy, Psychology of Interactive Media, Cultural Studies, Religious Studies, Environmental Humanities  
-**Lead Agent / Coordinator:** Academic Research Specialist & Manuscript Coordinator  
+**Lead Investigator / Author:** Md. Ismail Hossain ([GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/))  
 **Research Cutoff:** November 3, 2026  
 **Primary Research Object:** *Metro: Last Light* (4A Games / Deep Silver, 2013)  
 **Comparative Version:** *Metro: Last Light Redux* (2014) and subsequent updates  
@@ -34,3 +34,21 @@ This repository contains an exhaustive, interdisciplinary academic research stud
 ## Setup and Verification
 - Environment: Python 3.13 (`python-docx`, `pymupdf`, `pandas`).
 - Citation Standard: APA 7th edition with verified DOIs and URLs.
+
+---
+
+## 👤 Author & Contact
+
+**Md. Ismail Hossain**  
+*Technology Professional & AI / Software Systems Researcher*  
+*Professional Masters in Information Technology (PMIT), Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh*  
+*B.Sc. in Computer Science & Engineering*
+
+- 📧 **Email:** [ismailhossain013@gmail.com](mailto:ismailhossain013@gmail.com)
+- 🌐 **Portfolio:** [https://smile-plzz.github.io/Ismail_Hossain/](https://smile-plzz.github.io/Ismail_Hossain/)
+- 🐙 **GitHub:** [@smile-plzz](https://github.com/smile-plzz)
+- 💼 **LinkedIn:** [md-ismail-hossain-2938541b1](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/)
+- 📘 **Facebook:** [optimisticyetpessimist](https://www.facebook.com/optimisticyetpessimist/)
+- 🐦 **X (Twitter):** [@smile_plzzz_](https://x.com/smile_plzzz_)
+- 📍 **Location:** Dhaka, Bangladesh
+

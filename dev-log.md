@@ -44,3 +44,9 @@ All dates formatted in ISO 8601 (Local: UTC+6 / 2026-11-03).
 - Executed `generate_docx.py` using `python-docx`: exported `Metro_Last_Light_Research_Paper.docx` (67.2 KB) with publication-ready APA formatting (1-inch margins, Times New Roman 12pt, styled headings, formatted tables).
 - Produced `15_PROCESS_RECORD.md`: complete pipeline execution audit, anti-sycophancy report, and limitations statement.
 - Updated `00_PROJECT_README.md`, `CHANGELOG.md`, and master index.
+
+### [2026-11-06 01:57] — Author Attribution & Profile Integration
+- Replaced generic research agent placeholders with authentic author details for Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University).
+- Integrated contact information and profile links (LinkedIn, GitHub, Facebook, Email, Portfolio) across README.md, context.md, 00_PROJECT_README.md, 01_RESEARCH_BRIEF.md, and 12_FULL_RESEARCH_PAPER.md.
+- Re-generated Metro_Last_Light_Research_Paper.docx via generate_docx.py.
+

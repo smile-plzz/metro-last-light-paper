@@ -1,7 +1,9 @@
 # The Last Light of Humanity: Memory, Ideology, Moral Agency, and the Ethics of Survival in Metro: Last Light
 
-**Lead Author:** Academic Research Specialist & Manuscript Coordinator  
-**Affiliation:** Interdisciplinary Critical Game Studies Group  
+**Lead Author:** Md. Ismail Hossain  
+**Affiliation:** Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh  
+**Email:** [ismailhossain013@gmail.com](mailto:ismailhossain013@gmail.com)  
+**Profile & Links:** [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)  
 **Target Venue:** *Games and Culture* / *Game Studies*  
 **Date of Record:** November 3, 2026  
 **Research Status:** Stage 2 Manuscript Complete (APA 7th Edition)  

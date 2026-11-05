@@ -1,7 +1,7 @@
 # 01_RESEARCH_BRIEF.md: Project Brief & Analytical Blueprint
 
 **Project Title:** The Last Light of Humanity: Memory, Ideology, Moral Agency, and the Ethics of Survival in *Metro: Last Light*  
-**Author / Lead Investigator:** Academic Research Specialist & Manuscript Coordinator  
+**Author / Lead Investigator:** Md. Ismail Hossain ([GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/))  
 **Research Status:** Active — Stage 1 Comprehensive Design  
 **Date of Record:** 2026-11-03  
 **Target Venue:** *Games and Culture* / *Game Studies* (Interdisciplinary Case Study)  
